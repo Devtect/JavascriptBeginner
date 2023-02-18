@@ -6,8 +6,8 @@
 
 ## Sections
 
-1 - Variables, Data Types
-2 - User Input
-3 - Arithmetic Expressions
-4 - Type Conversion
-5 - cont Variable
+1. Variables, Data Types
+2. User Input
+3. Arithmetic Expressions
+4. Type Conversion
+5. cont Variable
