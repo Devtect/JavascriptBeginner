@@ -6,7 +6,7 @@
 
 ###### This repo is for basic Javascript stuff. Most of the things are based on how I learned things from the internet and YT.😁
 
-**Sections will be updated.**
+**Sections will be updated**
 
 ## Sections
 
