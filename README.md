@@ -16,4 +16,5 @@
 4. Type Conversion
 5. const Variable
 6. Math
-7. Practice program
+7. Practice program (hypotenuse)
+8. Practice program (counter)
